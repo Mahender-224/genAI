@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/115a932edbe34738a73206bcb8046bea/artifacts
+end_time: 1753541935984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115a932edbe34738a73206bcb8046bea
+run_name: brawny-crab-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753541895612
+status: 3
+tags: []
+user_id: mkethavath

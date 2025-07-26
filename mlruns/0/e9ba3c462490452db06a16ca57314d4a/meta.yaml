@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e9ba3c462490452db06a16ca57314d4a/artifacts
+end_time: 1753541533417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9ba3c462490452db06a16ca57314d4a
+run_name: rogue-dolphin-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753541468213
+status: 3
+tags: []
+user_id: mkethavath

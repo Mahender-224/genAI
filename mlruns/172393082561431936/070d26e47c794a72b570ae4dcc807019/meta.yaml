@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/070d26e47c794a72b570ae4dcc807019/artifacts
+end_time: 1753552520473
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: 070d26e47c794a72b570ae4dcc807019
+run_name: clumsy-sponge-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552519985
+status: 3
+tags: []
+user_id: mkethavath

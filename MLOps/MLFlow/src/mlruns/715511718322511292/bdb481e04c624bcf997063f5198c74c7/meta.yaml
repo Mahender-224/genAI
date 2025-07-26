@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/bdb481e04c624bcf997063f5198c74c7/artifacts
+end_time: 1753552271903
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: bdb481e04c624bcf997063f5198c74c7
+run_name: unleashed-calf-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552271669
+status: 3
+tags: []
+user_id: mkethavath

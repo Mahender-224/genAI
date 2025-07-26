@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/6c8b0b3a15494476a77fd0de536c20af/artifacts
+end_time: 1753552518072
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: 6c8b0b3a15494476a77fd0de536c20af
+run_name: redolent-bass-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552517514
+status: 3
+tags: []
+user_id: mkethavath

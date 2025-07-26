@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/547570403026233914/3527923b501b48209a3347fb9db5ac41/artifacts
+end_time: 1753551501127
+entry_point_name: ''
+experiment_id: '547570403026233914'
+lifecycle_stage: active
+run_id: 3527923b501b48209a3347fb9db5ac41
+run_name: adventurous-crab-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753551448937
+status: 3
+tags: []
+user_id: mkethavath

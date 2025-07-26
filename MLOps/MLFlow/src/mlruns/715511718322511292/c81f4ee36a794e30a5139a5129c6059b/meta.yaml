@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/c81f4ee36a794e30a5139a5129c6059b/artifacts
+end_time: 1753552270447
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: c81f4ee36a794e30a5139a5129c6059b
+run_name: bemused-robin-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552270269
+status: 3
+tags: []
+user_id: mkethavath

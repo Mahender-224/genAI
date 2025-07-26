@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/f69287b6310a443484b52869ddffd57b/artifacts
+end_time: 1753552525514
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: f69287b6310a443484b52869ddffd57b
+run_name: clumsy-calf-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552524936
+status: 3
+tags: []
+user_id: mkethavath

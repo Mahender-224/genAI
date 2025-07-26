@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/1d486a877e2444188e07334d99312f28/artifacts
+end_time: 1753552270700
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: 1d486a877e2444188e07334d99312f28
+run_name: nimble-perch-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552270494
+status: 3
+tags: []
+user_id: mkethavath

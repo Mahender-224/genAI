@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292
+creation_time: 1753552213860
+experiment_id: '715511718322511292'
+last_update_time: 1753552213860
+lifecycle_stage: active
+name: breast-cancer-rf-hp

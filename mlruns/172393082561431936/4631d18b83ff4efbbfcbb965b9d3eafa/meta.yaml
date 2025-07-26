@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/4631d18b83ff4efbbfcbb965b9d3eafa/artifacts
+end_time: 1753552523521
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: 4631d18b83ff4efbbfcbb965b9d3eafa
+run_name: gifted-doe-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552522993
+status: 3
+tags: []
+user_id: mkethavath

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/118f4c0db9784627be9ea3a1916d97d9/artifacts
+end_time: 1753552311974
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: 118f4c0db9784627be9ea3a1916d97d9
+run_name: fearless-pig-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552222425
+status: 3
+tags: []
+user_id: mkethavath

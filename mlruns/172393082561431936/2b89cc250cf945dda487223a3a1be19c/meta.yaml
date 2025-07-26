@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/2b89cc250cf945dda487223a3a1be19c/artifacts
+end_time: 1753552519805
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: 2b89cc250cf945dda487223a3a1be19c
+run_name: calm-kit-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552519233
+status: 3
+tags: []
+user_id: mkethavath

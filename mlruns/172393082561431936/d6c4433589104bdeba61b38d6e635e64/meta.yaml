@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/d6c4433589104bdeba61b38d6e635e64/artifacts
+end_time: 1753552517306
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: d6c4433589104bdeba61b38d6e635e64
+run_name: thoughtful-hen-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552516439
+status: 3
+tags: []
+user_id: mkethavath

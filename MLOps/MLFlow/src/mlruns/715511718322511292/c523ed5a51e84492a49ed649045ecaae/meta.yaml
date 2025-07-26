@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/c523ed5a51e84492a49ed649045ecaae/artifacts
+end_time: 1753552269790
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: c523ed5a51e84492a49ed649045ecaae
+run_name: indecisive-pig-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552269571
+status: 3
+tags: []
+user_id: mkethavath

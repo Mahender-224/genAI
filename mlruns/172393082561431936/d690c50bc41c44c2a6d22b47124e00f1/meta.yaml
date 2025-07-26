@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/172393082561431936/d690c50bc41c44c2a6d22b47124e00f1/artifacts
+end_time: 1753552521103
+entry_point_name: ''
+experiment_id: '172393082561431936'
+lifecycle_stage: active
+run_id: d690c50bc41c44c2a6d22b47124e00f1
+run_name: polite-carp-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552520625
+status: 3
+tags: []
+user_id: mkethavath

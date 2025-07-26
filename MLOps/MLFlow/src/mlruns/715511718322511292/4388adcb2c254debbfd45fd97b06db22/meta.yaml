@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mkethavath/OneDrive%20-%20Infor/Desktop/langchain_models/genAI/MLOps/MLFlow/src/mlruns/715511718322511292/4388adcb2c254debbfd45fd97b06db22/artifacts
+end_time: 1753552272268
+entry_point_name: ''
+experiment_id: '715511718322511292'
+lifecycle_stage: active
+run_id: 4388adcb2c254debbfd45fd97b06db22
+run_name: gaudy-donkey-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552271942
+status: 3
+tags: []
+user_id: mkethavath
