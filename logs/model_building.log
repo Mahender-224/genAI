@@ -1,0 +1,6 @@
+2025-07-26 13:51:43,555 - model_building - DEBUG - Parameters retrieved from MLOPS/ML_Pipeline/src/params.yaml
+2025-07-26 13:51:43,586 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 36)
+2025-07-26 13:51:43,592 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2025-07-26 13:51:43,593 - model_building - DEBUG - Model training started with 4152 samples
+2025-07-26 13:51:43,742 - model_building - DEBUG - Model training completed
+2025-07-26 13:51:43,750 - model_building - DEBUG - Model saved to models/model.pkl

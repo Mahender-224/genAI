@@ -1,0 +1,60 @@
+2025-07-26 13:40:18,298 - data_preprocessing - DEBUG - Data loaded properly
+2025-07-26 13:40:18,299 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-07-26 13:40:18,303 - data_preprocessing - DEBUG - Target column encoded
+2025-07-26 13:40:18,315 - data_preprocessing - DEBUG - Duplicates removed
+2025-07-26 13:40:18,328 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\mkethavath/nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\share\\nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\lib\\nltk_data'
+    - 'C:\\Users\\mkethavath\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-26 13:40:18,331 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\mkethavath/nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\share\\nltk_data'
+    - 'C:\\Users\\mkethavath\\OneDrive - Infor\\Desktop\\langchain_models\\genAI\\myenv\\lib\\nltk_data'
+    - 'C:\\Users\\mkethavath\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-07-26 13:42:39,375 - data_preprocessing - DEBUG - Data loaded properly
+2025-07-26 13:42:39,376 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-07-26 13:42:39,379 - data_preprocessing - DEBUG - Target column encoded
+2025-07-26 13:42:39,384 - data_preprocessing - DEBUG - Duplicates removed
+2025-07-26 13:43:44,130 - data_preprocessing - DEBUG - Text column transformed
+2025-07-26 13:43:44,131 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-07-26 13:43:44,132 - data_preprocessing - DEBUG - Target column encoded
+2025-07-26 13:43:44,134 - data_preprocessing - DEBUG - Duplicates removed
+2025-07-26 13:44:00,150 - data_preprocessing - DEBUG - Text column transformed
+2025-07-26 13:44:00,180 - data_preprocessing - DEBUG - Processed data saved to ./data\interim

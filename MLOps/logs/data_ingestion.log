@@ -1,0 +1,8 @@
+2025-07-26 11:51:31,355 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-26 11:51:31,359 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-26 13:26:19,785 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-26 13:26:19,795 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-26 13:27:40,135 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-26 13:27:40,135 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-26 13:29:30,650 - data_ingestion - ERROR - File not found: ML_Pipeline/src/params.yaml
+2025-07-26 13:29:30,651 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'ML_Pipeline/src/params.yaml'

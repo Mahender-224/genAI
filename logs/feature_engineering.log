@@ -1,0 +1,10 @@
+2025-07-26 13:44:47,942 - feature_engineering - ERROR - File not found: params.yaml
+2025-07-26 13:44:47,945 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-26 13:47:32,380 - feature_engineering - ERROR - Unexpected error: [Errno 22] Invalid argument: '<LOPS/ML_Pipeline/src/params.yaml'
+2025-07-26 13:47:32,382 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 22] Invalid argument: '<LOPS/ML_Pipeline/src/params.yaml'
+2025-07-26 13:48:00,662 - feature_engineering - DEBUG - Parameters retrieved from MLOPS/ML_Pipeline/src/params.yaml
+2025-07-26 13:48:00,680 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-07-26 13:48:00,685 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-07-26 13:48:00,743 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-07-26 13:48:00,829 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-07-26 13:48:00,858 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
