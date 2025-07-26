@@ -8,3 +8,9 @@
 2025-07-26 13:48:00,743 - feature_engineering - DEBUG - tfidf applied and data transformed
 2025-07-26 13:48:00,829 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
 2025-07-26 13:48:00,858 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-07-26 14:47:31,902 - feature_engineering - DEBUG - Parameters retrieved from MLOPS/ML_Pipeline/src/params.yaml
+2025-07-26 14:47:31,928 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/train_processed.csv
+2025-07-26 14:47:31,935 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/interim/test_processed.csv
+2025-07-26 14:47:32,007 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-07-26 14:47:32,126 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-07-26 14:47:32,167 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv

@@ -1,7 +1,42 @@
-params:
-- dvclive/params.yaml
-metrics:
-- dvclive/metrics.json
-plots:
-- dvclive/plots/metrics:
-    x: step
+stages:
+  data_ingestion:
+    cmd: python MLOPS/ML_Pipeline/src/data_ingestion.py
+    deps:
+    - MLOPS/ML_Pipeline/src/data_ingestion.py
+    params:
+    - data_ingestion.test_size
+    outs:
+    - data/raw
+  data_preprocessing:
+    cmd: python MLOPS/ML_Pipeline/src/data_preprocessing.py
+    deps:
+    - data/raw
+    - MLOPS/ML_Pipeline/src/data_preprocessing.py
+    outs:
+    - data/interim
+  feature_engineering:
+    cmd: python MLOPS/ML_Pipeline/src/feature_engineering.py
+    deps:
+    - data/interim
+    - MLOPS/ML_Pipeline/src/feature_engineering.py
+    params:
+    - feature_engineering.max_features
+    outs:
+    - data/processed
+  model_building:
+    cmd: python MLOPS/ML_Pipeline/src/model_training.py
+    deps:
+    - data/processed
+    - MLOPS/ML_Pipeline/src/model_training.py
+    params:
+    - model_training.n_estimators
+    - model_training.random_state
+    outs:
+    - models/model.pkl
+  model_evaluation:
+    cmd: python MLOPS/ML_Pipeline/src/model_evaluation.py
+    deps:
+    - models/model.pkl
+    - MLOPS/ML_Pipeline/src/model_evaluation.py
+    metrics:
+    - reports/metrics.json

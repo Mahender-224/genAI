@@ -4,3 +4,7 @@
 2025-07-26 13:36:06,089 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
 2025-07-26 13:36:06,098 - data_ingestion - DEBUG - Data preprocessing completed
 2025-07-26 13:36:06,152 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-26 14:45:44,239 - data_ingestion - DEBUG - Parameters retrieved from MLOPS/ML_Pipeline/src/params.yaml
+2025-07-26 14:45:44,882 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-07-26 14:45:44,893 - data_ingestion - DEBUG - Data preprocessing completed
+2025-07-26 14:45:44,981 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
